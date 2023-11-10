@@ -2,7 +2,6 @@ const sliderArea = document.querySelector('.banner .sliders');
 const sliderPointers = document.querySelectorAll('.banner [data-pointer]');
 const openMenuButton = document.querySelector('[data-button]');
 const menuNav = document.querySelector('nav');
-console.log('openMenuButton', openMenuButton);
 
 const idSliders = {
     '1': '0vw',
